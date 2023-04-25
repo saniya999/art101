@@ -1,6 +1,6 @@
-// index.js - purpose and description here
-// Author: Your Name
-// Date:
+// index.js - Lab 5 Data Types
+// Author: SaNiya Murphy and Paulina Patino
+// Date: 04-25-2023
 
 // Constants
 
@@ -17,5 +17,23 @@ function main() {
   // the code that makes everything happen
 }
 
-// let's get this party started
+// Define Variables
+carMake = "Fiat";
+
+carModel = "500x";
+
+carColor = "Yellow"
+
+carYear = "2020";
+
+carYear = "2016";
+// calculate 
+carAge = "2020" - carYear;
+
+//output
+document.writeln("carMake: "+ carMake + "<br>");
+document.writeln("carModel: "+ carModel + "<br>");
+document.writeln("carColor: "+ carColor + "<br>");
+document.writeln("carYear: "+ carYear + "<br>");
+document.writeln("carAge: "+ carAge + "<br>");
 main();
