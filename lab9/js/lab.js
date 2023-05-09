@@ -6,20 +6,7 @@
 
 // Functions
 
-// this is an example function and this comment tells what it doees and what parameters are passed to it.
-function myFunction(param1, param2) {
-  // some code here
-  // return results;
-}
 
-function userNameSort() {
-  
-
-}
-
-// output
-document.writeln("Your name is fixed: ",
-sortuserName(),"</br>"); 
 // Use getElementById() to find your output <div> and assign it to a variable outputEl
 var outputEl = document.getElementById("output");
 // Create a new element with document.createElement("p") and assign it to a variable new1El
@@ -41,6 +28,7 @@ new1El.style.color = "green";
 new1El.style.fontSize = "1in";
 
 new2El.style.fontSize = "0.5in";
+
 
 
 
